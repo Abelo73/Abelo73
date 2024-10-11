@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Abel</h1>
+<h1 align="center">Hi 👋, I'm Abel Adisu</h1>
 <h3 align="center">A passionate Fullstack developer from Ethiopia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abelo73&label=Profile%20views&color=0e75b6&style=flat" alt="abelo73" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abelo73" alt="abelo73" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/abelo373" target="blank"><img src="https://img.shields.io/twitter/follow/abelo373?logo=twitter&style=for-the-badge" alt="abelo373" /></a> </p>
 
 - 🔭 I’m currently working on **Ministery of Revenue**
 
