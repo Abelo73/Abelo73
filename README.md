@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://3d-portfolio-website-eight.vercel.app/](https://3d-portfolio-website-eight.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://2025-portfolio-git-main-abelo73s-projects.vercel.app/)
 
 - 💬 Ask me about **Spring boot,java, java EE**
 
