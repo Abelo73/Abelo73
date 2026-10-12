@@ -1,139 +1,81 @@
-<div align="center">
+<!-- ===== Animated header ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00D4FF&height=220&section=header&text=Abel%20Adisu&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Backend%20Engineer%20%E2%80%A2%20Java%20%26%20Spring%20Boot&descSize=20&descAlignY=58" width="100%" />
+</p>
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║        ██╗  ██╗███████╗██╗     ██╗      ██████╗          ║
-║        ██║  ██║██╔════╝██║     ██║     ██╔═══██╗         ║
-║        ███████║█████╗  ██║     ██║     ██║   ██║         ║
-║        ██╔══██║██╔══╝  ██║     ██║     ██║   ██║         ║
-║        ██║  ██║███████╗███████╗███████╗╚██████╔╝         ║
-║        ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝          ║
-║                                                           ║
-║              I build things that matter. 🇪🇹              ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<!-- ===== Typing animation ===== -->
+<p align="center">
+  <a href="https://abel-adisu.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B+I'm+Abel;I+build+scalable+backend+systems;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Microservices;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Open+to+freelance+%26+remote+work" />
+  </a>
+</p>
 
-</div>
-
----
-
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-### `whoami`
-
-```yaml
-name: Abel Adisu
-role: Full-Stack Software Developer
-location: Addis Ababa, Ethiopia 🇪🇹
-currently_at: Ministry of Revenue
-learning: Next.js & Modern Web Architecture
-ask_me_about: ["Spring Boot", "Java EE", "React", "System Design"]
-fun_fact: "I think I'm funny... my code disagrees 😄"
-portfolio: https://that-is-me.onrender.com
-```
+<p align="center">
+  <a href="https://abel-adisu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abeladisunugatu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/abeladisu73"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Abelo73&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" />
+</p>
 
 ---
 
-<br clear="right"/>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About me
 
-## 🧠 Tech Stack
-
-### ☕ Backend — My Comfort Zone
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### 🌐 Frontend — Bringing Ideas to Life
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🛠️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### 🤖 AI/ML (Exploring)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
----
-
-## 📊 GitHub at a Glance
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abelo73&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelo73&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abelo73&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Abel's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abelo73&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abelo73&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🌍 Let's Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://that-is-me.onrender.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abeladisunugatu)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abelo373)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abeladisu73@gmail.com)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21311429)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/abeladisu73)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/abelo_73)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/abelo732)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abelo_73)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/abeladisu)
-
-</div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════╗
-║   "First, solve the problem.                 ║
-║    Then, write the code." — John Johnson     ║
-╚══════════════════════════════════════════════╝
+```java
+public class AbelAdisu {
+    String role       = "Backend-focused Full-Stack Engineer";
+    String location   = "Addis Ababa, Ethiopia";
+    String currently  = "Software Developer @ Ministry of Revenue";
+    String[] core     = {"Java", "Spring Boot", "Microservices", "PostgreSQL"};
+    String[] frontend = {"React", "Next.js", "TypeScript", "Tailwind"};
+    String learning   = "Next.js & modern web architecture";
+    String openTo     = "Freelance & remote backend / full-stack roles";
+}
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=abelo73&label=Profile%20Views&color=0e75b6&style=flat)
-⭐️ From [Abelo73](https://github.com/Abelo73) with ❤️ from Ethiopia 🇪🇹
+---
 
-</div>
+## ⚡ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,postgres,mysql,mongodb,docker,linux&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,git,postman,figma&theme=dark" />
+</p>
+
+---
+
+## 🚀 Featured projects
+
+<p align="center">
+  <a href="https://github.com/Abelo73/hospital-management-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abelo73&repo=hospital-management-system&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Abelo73/hms-ui"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abelo73&repo=hms-ui&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Abelo73/ride-hailing-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abelo73&repo=ride-hailing-system&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Abelo73/multi-tenant-micro-service"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abelo73&repo=multi-tenant-micro-service&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+</p>
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abelo73&show_icons=true&hide_rank=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelo73&layout=compact&langs_count=6&hide=jupyter%20notebook,html,css&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abelo73&theme=tokyonight&hide_border=true&background=0D1117&hide_current_streak=true" />
+</p>
+
+<!-- ===== Animated contribution snake (needs the workflow in .github/workflows/snake.yml) ===== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abelo73/Abelo73/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+<p align="center"><i>"First, solve the problem. Then, write the code." — John Johnson</i></p>
+
+<!-- ===== Animated footer ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7F00FF&height=120&section=footer&animation=twinkling" width="100%" />
+</p>
